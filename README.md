@@ -4,5 +4,5 @@ Kalkulator ini dapat digunakan untuk menghitung BMI anda dengan menggunakan Rumu
 
 ## Screen Shoot
 <div align="center">
-<img src="/assets/images/ss-1.png?raw=true" width=50%>&nbsp;<img src="/assets/images/ss-2.png?raw=true" width=50%>
+<img src="/assets/images/ss-1.png?raw=true" width=100%>&nbsp;<img src="/assets/images/ss-2.png?raw=true" width=100%>
 </div>
